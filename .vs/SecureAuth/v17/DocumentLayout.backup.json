@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\controler\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:controler\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\models\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:models\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\controler\\encryptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:controler\\encryptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\data\\encrypted\\john_at_example_dot_com.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:data\\encrypted\\john_at_example_dot_com.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\models\\plaintext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:models\\plaintext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\models\\encryptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:models\\encryptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|c:\\users\\pc\\downloads\\project_data_securty-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476B71A1-B91E-C558-DF25-D5A184211224}|SecureAuth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPass.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\ResetPass.cs",
+              "RelativeDocumentMoniker": "Models\\ResetPass.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\ResetPass.cs",
+              "RelativeToolTip": "Models\\ResetPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:37:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Models\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "Models\\ChangePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:35:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "john_at_example_dot_com.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Data\\Encrypted\\john_at_example_dot_com.json",
+              "RelativeDocumentMoniker": "Data\\Encrypted\\john_at_example_dot_com.json",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Data\\Encrypted\\john_at_example_dot_com.json",
+              "RelativeToolTip": "Data\\Encrypted\\john_at_example_dot_com.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACpCQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T22:21:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Controler\\EncryptionController.cs",
+              "RelativeDocumentMoniker": "Controler\\EncryptionController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Controler\\EncryptionController.cs",
+              "RelativeToolTip": "Controler\\EncryptionController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:39:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "Services\\EncryptionService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAIA0wEgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T01:37:23.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:57:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Controler\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controler\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Controler\\AuthController.cs",
+              "RelativeToolTip": "Controler\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:54:15.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlainText.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\PlainText.cs",
+              "RelativeDocumentMoniker": "Models\\PlainText.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\PlainText.cs",
+              "RelativeToolTip": "Models\\PlainText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:58:15.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\EncryptionRequest.cs",
+              "RelativeDocumentMoniker": "Models\\EncryptionRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\EncryptionRequest.cs",
+              "RelativeToolTip": "Models\\EncryptionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:53:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:52:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T01:39:33.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

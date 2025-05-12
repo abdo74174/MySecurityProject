@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1LFzjrmZZFlLQa9snd8DMy2WC5Rw0JHKvOvAr2jx4RE=",
+  "Source": "SecureAuth",
+  "BasePath": "_content/SecureAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

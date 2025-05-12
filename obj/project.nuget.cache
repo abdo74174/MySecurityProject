@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtxTytt9wI0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\Project_Data_Securty-main\\SecureAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
